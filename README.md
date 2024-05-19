@@ -1,1 +1,1 @@
-# tictactoe-solver
+# Tic-tac-toe solver
