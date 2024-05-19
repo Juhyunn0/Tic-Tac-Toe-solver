@@ -11,6 +11,8 @@ Tic-tac-toe solver is a Python program designed to play and solve the classic ga
 <br>
 
 **Pseudocode**
+* MinMax  
+ㅤㅤㅤㅤㅤㅤ![MinMax](https://github.com/Juhyunn0/tictactoe-solver/assets/133834440/e45e01bc-9d48-4a0a-9ae7-7ab752334f35)
 
-![MinMax](https://github.com/Juhyunn0/tictactoe-solver/assets/133834440/e45e01bc-9d48-4a0a-9ae7-7ab752334f35)
-![MinMax_with_alpha_pruning](https://github.com/Juhyunn0/tictactoe-solver/assets/133834440/eedb3b2f-118d-44e9-8e1e-987bf8d89cc3)
+* MinMax with alpha-beta pruning
+ㅤㅤㅤㅤㅤㅤ![MinMax_with_alpha_pruning](https://github.com/Juhyunn0/tictactoe-solver/assets/133834440/eedb3b2f-118d-44e9-8e1e-987bf8d89cc3)
